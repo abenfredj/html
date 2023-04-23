@@ -36,6 +36,8 @@
 #$hostname = "svc-db-staff-internal.database"
 #$username = "root";
 #$password = "MySecret123";
+#$username = "root";
+#$password = "MySecret123";
 #$db = "db1";
 $hostname = "svc-db-app2.db"
 $username = "root";
